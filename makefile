@@ -1,3 +1,6 @@
+run:
+	python3 src/main.py
+
 init:
 	python3 -m venv venv
 	fish -c 'source venv/bin/activate.fish'
