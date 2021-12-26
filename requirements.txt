@@ -1,5 +1,0 @@
-black
-pylint
-flake8
-mypy
-pytest
